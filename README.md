@@ -15,4 +15,4 @@ The goal of this project is to analyze **Pizza Sales Data** using SQL for data e
 - **Excel/CSV** – Raw data file  
 - **GitHub** – Project documentation  
 
-### Project inspired by the “Pizza Sales Analysis” tutorial by Data Tutorials (YouTube) — helped in understanding data modeling, DAX measures, and dashboard building in Power BI.
+##### Project inspired by the “Pizza Sales Analysis” tutorial by Data Tutorials (YouTube) — helped in understanding data modeling, DAX measures, and dashboard building in Power BI.
