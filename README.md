@@ -1,6 +1,4 @@
-# 🍕 Power BI & SQL Project | Data Analyst Portfolio | End to End | Beginner to Expert  
-
-This is an **end-to-end Data Analytics project** designed for aspiring data analysts who want to learn how to use **SQL and Power BI** together to gain valuable business insights.  
+# 🍕 Power BI & SQL Project | Data Analyst Portfolio | End to End | Beginner to Expert    
 
 ##  Project Overview  
 The goal of this project is to analyze **Pizza Sales Data** using SQL for data extraction and cleaning, and **Power BI** for visualization and reporting.  
